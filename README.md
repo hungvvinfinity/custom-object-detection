@@ -3,6 +3,10 @@
 ## Overview
 This project demonstrates object detection using a custom dataset with YOLO11. The workflow includes data labeling, model training, and evaluation.
 
+I started training with a very small dataset to demo how to train a model, here is my result
+
+![sample](result.jpg)
+
 ## Features
 - Custom object detection using YOLO11.
 - Data labeling with LabelStudio.
